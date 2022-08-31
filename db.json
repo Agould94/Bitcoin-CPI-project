@@ -1,0 +1,60 @@
+{
+  "Items": [
+    {
+      "name": "coffee",
+      "price": [
+        4
+      ],
+      "BTCprice": 0.00010541614,
+      "id": 3
+    },
+    {
+      "name": "chicken",
+      "price": [
+        5
+      ],
+      "BTCprice": 0.00013002860902749998,
+      "id": 4
+    },
+    {
+      "name": "bread",
+      "price": [
+        3
+      ],
+      "BTCprice": 0.00007856358490578,
+      "id": 5
+    },
+    {
+      "name": "bread",
+      "price": [
+        3
+      ],
+      "BTCprice": 0.00007856358490578,
+      "id": 6
+    },
+    {
+      "name": "iphone",
+      "price": [
+        700
+      ],
+      "BTCprice": 0.0185077444552,
+      "id": 7
+    },
+    {
+      "name": "cheese",
+      "price": [
+        5
+      ],
+      "BTCprice": 0.00016888506228619998,
+      "id": 13
+    },
+    {
+      "name": "meat",
+      "price": [
+        12
+      ],
+      "BTCprice": 0.00040520265793967997,
+      "id": 14
+    }
+  ]
+}

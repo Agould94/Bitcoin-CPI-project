@@ -1,0 +1,33 @@
+table{
+    border-collapse: separate;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #000
+}
+
+tr{
+    padding: 10px 20px;
+    border: 1px solid #000;
+}
+th, td{
+    padding: 10px 20px;
+    border: 1px solid #000;
+    border-right: 5px solid #000;
+    padding-right:10px
+
+}
+body{
+    text-align: center;
+    background-color: lightseagreen
+
+
+}
+#inputform{
+    background-color: lightblue;
+    display: inline-block;
+    border: 2px solid #000 ;
+
+
+}
+
